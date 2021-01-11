@@ -1,0 +1,14 @@
+   CMD: 1 $ State: FAILED $ #Events: 0 $ Time: 2255 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 2 $ State: FAILED $ #Events: 0 $ Time: 2359 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 3 $ State: FAILED $ #Events: 0 $ Time: 2358 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 4 $ State: FAILED $ #Events: 0 $ Time: 4903 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 5 $ State: FAILED $ #Events: 0 $ Time: 3051 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 6 $ State: COMPLETED $ #Events: 0 $ Time: 1600288746400 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 7 $ State: FAILED $ #Events: 0 $ Time: 9412 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 8 $ State: FAILED $ #Events: 0 $ Time: 8450 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 9 $ State: FAILED $ #Events: 0 $ Time: 10499 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 10 $ State: FAILED $ #Events: 0 $ Time: 6753 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 11 $ State: FAILED $ #Events: 0 $ Time: 8546 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 12 $ State: FAILED $ #Events: 0 $ Time: 12948 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 13 $ State: FAILED $ #Events: 0 $ Time: 8352 $ A11yIssueCount: 0 $ WidgetIssue: false
+Result: false $ Steps: 13 $ Completed: 1 $ Failed: 12 $ Unlocatable: 0 $ Unreachable: 0 $ FirstProblem: 1 $ ReportedA11y: 0 $ TotalEvents: 0 $ TotalTime: 108040

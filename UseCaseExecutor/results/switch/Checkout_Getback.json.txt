@@ -1,0 +1,5 @@
+   CMD: 1 $ State: COMPLETED $ #Events: 1 $ Time: 6 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 2 $ State: COMPLETED $ #Events: 1 $ Time: 23 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 3 $ State: COMPLETED $ #Events: 1 $ Time: 8 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 4 $ State: COMPLETED $ #Events: 2 $ Time: 4063 $ A11yIssueCount: 0 $ WidgetIssue: false
+Result: true $ Steps: 4 $ Completed: 4 $ Failed: 0 $ Unlocatable: 0 $ Unreachable: 0 $ FirstProblem: -1 $ ReportedA11y: 0 $ TotalEvents: 5 $ TotalTime: 12239

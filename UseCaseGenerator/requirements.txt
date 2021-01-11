@@ -1,0 +1,12 @@
+Appium-Python-Client==1.0.2
+astor==0.8.1
+beautifulsoup4==4.9.1
+certifi==2020.6.20
+chardet==3.0.4
+idna==2.10
+lxml==4.5.2
+requests==2.24.0
+selenium==3.141.0
+soupsieve==2.0.1
+strutil==0.2.1
+urllib3==1.25.10

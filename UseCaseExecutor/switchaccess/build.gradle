@@ -1,0 +1,31 @@
+/* For building open-source release of accessibility services.  */
+
+apply plugin: 'com.android.library'
+apply from: "../shared.gradle"
+
+dependencies {
+//    implementation project(':proguard')  // Only exists in github repo.
+    implementation project(':utils')
+    implementation project(':compositor')
+    compile (project(path: ':aft')) {
+        exclude group: 'org.checkerframework', module: 'checker'
+        exclude group: 'org.checkerframework', module: 'checker-compat-qual'
+        exclude group: 'org.checkerframework', module: 'checker-qual'
+    }
+    implementation project(':lib_utils_log')
+    implementation project(':lib_utils_misc')
+    implementation (group: 'com.googlecode.json-simple', name: 'json-simple', version: '1.1.1') {
+        exclude group: 'junit', module: 'junit'
+    }
+
+//    compile 'com.google.android.gms:play-services-auth:16.0.1'
+//    compile 'pub.devrel:easypermissions:0.3.0'
+//    compile('com.google.api-client:google-api-client-android:1.25.0') {
+//        exclude group: 'org.apache.httpcomponents'
+//    }
+//    compile('com.google.apis:google-api-services-sheets:v4-rev569-1.25.0') {
+//        exclude group: 'org.apache.httpcomponents'
+//    }
+    api 'com.google.auto.value:auto-value-annotations:1.6.2'
+    annotationProcessor 'com.google.auto.value:auto-value:1.6.2'
+}

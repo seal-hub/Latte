@@ -1,0 +1,46 @@
+/* For building open-source release of accessibility services.  */
+
+apply plugin: 'com.android.application'
+
+apply from: 'shared.gradle'
+
+buildscript {
+    repositories {
+        jcenter()
+        google()
+    }
+    dependencies {
+        classpath 'org.aspectj:aspectjtools:1.8.1'
+        classpath 'com.android.tools.build:gradle:3.5.1'
+    }
+}
+
+allprojects {
+    repositories {
+        jcenter()
+        google()
+    }
+}
+
+android {
+    buildToolsVersion '29.0.0'
+    defaultConfig {
+        minSdkVersion 26
+        targetSdkVersion 29
+        testInstrumentationRunner 'android.test.InstrumentationTestRunner'
+        multiDexEnabled true
+    }
+    packagingOptions {
+        exclude 'LICENSE'
+        exclude 'README'
+    }
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+}
+
+dependencies {
+    implementation project(':switchaccess')
+    implementation project(':talkback')
+}

@@ -1,0 +1,24 @@
+   CMD: 1 $ State: COMPLETED $ #Events: 1 $ Time: 7 $ A11yIssueCount: 3 $ WidgetIssue: false
+   CMD: 2 $ State: COMPLETED $ #Events: 1 $ Time: 5 $ A11yIssueCount: 2 $ WidgetIssue: true
+   CMD: 3 $ State: COMPLETED $ #Events: 1 $ Time: 9 $ A11yIssueCount: 2 $ WidgetIssue: false
+   CMD: 4 $ State: COMPLETED $ #Events: 1 $ Time: 7 $ A11yIssueCount: 2 $ WidgetIssue: true
+   CMD: 5 $ State: COMPLETED $ #Events: 1 $ Time: 7 $ A11yIssueCount: 3 $ WidgetIssue: true
+   CMD: 6 $ State: COMPLETED $ #Events: 1 $ Time: 11 $ A11yIssueCount: 3 $ WidgetIssue: true
+   CMD: 7 $ State: COMPLETED $ #Events: 1 $ Time: 7 $ A11yIssueCount: 2 $ WidgetIssue: true
+   CMD: 8 $ State: COMPLETED $ #Events: 1 $ Time: 6 $ A11yIssueCount: 4 $ WidgetIssue: true
+   CMD: 9 $ State: COMPLETED $ #Events: 1 $ Time: 6 $ A11yIssueCount: 4 $ WidgetIssue: true
+   CMD: 10 $ State: COMPLETED $ #Events: 1 $ Time: 7 $ A11yIssueCount: 2 $ WidgetIssue: false
+   CMD: 11 $ State: COMPLETED $ #Events: 1 $ Time: 5 $ A11yIssueCount: 2 $ WidgetIssue: true
+   CMD: 12 $ State: COMPLETED $ #Events: 1 $ Time: 13 $ A11yIssueCount: 3 $ WidgetIssue: true
+   CMD: 13 $ State: COMPLETED $ #Events: 1 $ Time: 8 $ A11yIssueCount: 2 $ WidgetIssue: true
+   CMD: 14 $ State: COMPLETED $ #Events: 1 $ Time: 12 $ A11yIssueCount: 3 $ WidgetIssue: true
+   CMD: 15 $ State: COMPLETED $ #Events: 1 $ Time: 10 $ A11yIssueCount: 2 $ WidgetIssue: true
+   CMD: 16 $ State: COMPLETED $ #Events: 1 $ Time: 6 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 17 $ State: COMPLETED $ #Events: 1 $ Time: 6 $ A11yIssueCount: 2 $ WidgetIssue: true
+   CMD: 18 $ State: COMPLETED $ #Events: 1 $ Time: 6 $ A11yIssueCount: 2 $ WidgetIssue: false
+   CMD: 19 $ State: COMPLETED $ #Events: 1 $ Time: 6 $ A11yIssueCount: 2 $ WidgetIssue: true
+   CMD: 20 $ State: COMPLETED $ #Events: 1 $ Time: 6 $ A11yIssueCount: 6 $ WidgetIssue: false
+   CMD: 21 $ State: COMPLETED $ #Events: 1 $ Time: 4 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 22 $ State: COMPLETED $ #Events: 1 $ Time: 1069 $ A11yIssueCount: 1 $ WidgetIssue: false
+   CMD: 23 $ State: COMPLETED $ #Events: 1 $ Time: 8 $ A11yIssueCount: 1 $ WidgetIssue: false
+Result: true $ Steps: 23 $ Completed: 23 $ Failed: 0 $ Unlocatable: 0 $ Unreachable: 0 $ FirstProblem: -1 $ ReportedA11y: 53 $ TotalEvents: 23 $ TotalTime: 25604

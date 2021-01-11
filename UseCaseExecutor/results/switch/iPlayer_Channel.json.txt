@@ -1,0 +1,2 @@
+   CMD: 1 $ State: COMPLETED_BY_REGULAR $ #Events: 38 $ Time: 96100 $ A11yIssueCount: 0 $ WidgetIssue: false
+Result: false $ Steps: 1 $ Completed: 0 $ Failed: 0 $ Unlocatable: 0 $ Unreachable: 1 $ FirstProblem: 1 $ ReportedA11y: 0 $ TotalEvents: 38 $ TotalTime: 3337

@@ -1,0 +1,24 @@
+   CMD: 1 $ State: COMPLETED $ #Events: 1 $ Time: 1054 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 2 $ State: FAILED $ #Events: 0 $ Time: 9 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 3 $ State: FAILED $ #Events: 0 $ Time: 4 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 4 $ State: FAILED $ #Events: 0 $ Time: 4 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 5 $ State: FAILED $ #Events: 0 $ Time: 3 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 6 $ State: FAILED $ #Events: 0 $ Time: 6 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 7 $ State: FAILED $ #Events: 0 $ Time: 4 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 8 $ State: FAILED $ #Events: 0 $ Time: 4 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 9 $ State: FAILED $ #Events: 0 $ Time: 3 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 10 $ State: FAILED $ #Events: 0 $ Time: 3 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 11 $ State: FAILED $ #Events: 0 $ Time: 3 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 12 $ State: FAILED $ #Events: 0 $ Time: 3 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 13 $ State: FAILED $ #Events: 0 $ Time: 4 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 14 $ State: FAILED $ #Events: 0 $ Time: 5 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 15 $ State: FAILED $ #Events: 0 $ Time: 4 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 16 $ State: FAILED $ #Events: 0 $ Time: 4 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 17 $ State: FAILED $ #Events: 0 $ Time: 3 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 18 $ State: FAILED $ #Events: 0 $ Time: 5 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 19 $ State: FAILED $ #Events: 0 $ Time: 2 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 20 $ State: FAILED $ #Events: 0 $ Time: 4 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 21 $ State: FAILED $ #Events: 0 $ Time: 3 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 22 $ State: FAILED $ #Events: 0 $ Time: 3 $ A11yIssueCount: 0 $ WidgetIssue: false
+   CMD: 23 $ State: FAILED $ #Events: 0 $ Time: 3 $ A11yIssueCount: 0 $ WidgetIssue: false
+Result: false $ Steps: 23 $ Completed: 1 $ Failed: 22 $ Unlocatable: 0 $ Unreachable: 0 $ FirstProblem: 2 $ ReportedA11y: 0 $ TotalEvents: 1 $ TotalTime: 47980
