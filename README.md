@@ -15,9 +15,9 @@ Please download the [Apps](https://drive.google.com/file/d/1RG8IEBR90CM9-1OcMKWY
 
 ## Repository
 ### Use-Case Generator
-Please follow the instructions [here](tree/master/UseCaseGenerator).
+Please follow the instructions [here](UseCaseGenerator).
 ### Use-Case Executor
-Please follow the instructions [here](tree/master/UseCaseExecutor).
+Please follow the instructions [here](UseCaseExecutor).
 
 ## Contact
 If you have any question regarding the repository or paper, please send an email to Navid Salehnamadi [nsalehna@uci.edu](nsalehna@uci.edu).
