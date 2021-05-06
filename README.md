@@ -8,7 +8,7 @@ Please visit [Latte's demonstration website](https://lattea11y.github.io/).
 
 ## Publication
 
-Navid Salehnamadi, Abdulaziz Alshayban, Jun-Wei Lin, Iftekhar Ahmed, Stacy Branham, and Sam Malek. 2021.LATTE: Use-Case andAssistive-Service Driven Automated Accessibility Testing Framework for Android. InCHI Conference on Human Factors in ComputingSystems (CHI ’21), May 8–13, 2021, Yokohama, Japan
+Navid Salehnamadi, Abdulaziz Alshayban, Jun-Wei Lin, Iftekhar Ahmed, Stacy Branham, and Sam Malek. 2021. Latte: Use-Case and Assistive-Service Driven Automated Accessibility Testing Framework for Android. In CHI Conference on Human Factors in Computing Systems (CHI ’21), May 8–13, 2021, Yokohama, Japan
 
 ## CHI'21 Supplementary Material
 
